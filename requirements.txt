@@ -4,5 +4,5 @@ seaborn
 numpy
 nltk
 wordcloud
-sklearn
+scikit-learn
 statsmodels
